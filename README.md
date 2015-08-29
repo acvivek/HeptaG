@@ -4,13 +4,6 @@ HeptaG the 7 in 1 game built in C++
 7G   (7 in 1 Game )
 By
 A.C.VIVEK
-Mail me at acvivek@yahoo.co.in or acvivek@gmail.com
-Completed on 3/08/2005
-Compiled in Turbo C++ on Windows Platform
-Graphics header file path c:/tc/  
-words.txt is the file used by the game Alpha Beta to pick random words.
-
-In order to change it alter the prg which contains initgraph(...) in the main() function and replace the 3rd argument by the location of the graphics.h header file.Compile & execute in Turbo C++.
 
 1.BRICKS
 
